@@ -1,0 +1,1 @@
+insert into client values (10002,'abc', '2000-10-05', 'г.Москва', '123456', 'abc@mail.ru');
